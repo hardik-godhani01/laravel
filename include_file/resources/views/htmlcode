@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>include_file</title>
+    <link rel="stylesheet" href="css/style.css ">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>YahooBaba</h1>
+        </header>
+        <nav>
+            <a href="/">home</a>
+            <a href="/about">about</a>
+            <a href="/post">post</a>
+        </nav>
+        <Main>
+            <article>
+                <h1>
+                    home page
+                </h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, a repellendus doloremque vero
+                    voluptatibus dolorem eum nesciunt in laudantium vitae dolore, autem quos magnam. Quod inventore, sed
+                    nesciunt voluptatum architecto provident, soluta ipsum culpa necessitatibus, pariatur suscipit
+                    laudantium! Qui perferendis fuga unde earum maxime, saepe, at placeat debitis rem fugit excepturi,
+                    ipsa delectus reprehenderit adipisci repellat explicabo accusantium voluptas similique! Deserunt
+                    nobis qui accusamus veniam exercitationem consectetur nostrum, possimus aut facilis modi dolor,
+                    laudantium nisi eius est obcaecati vitae quod quibusdam earum illum fugiat totam. Similique unde
+                    voluptas beatae sint quos nam, soluta consectetur ab veniam qui alias! Cupiditate aperiam tempora
+                    sunt perspiciatis nulla! Voluptates dolorem delectus cupiditate doloremque deserunt harum nesciunt
+                    ab voluptatem ut eius. Officia, eius quis. Impedit ducimus consequatur doloribus cum fugiat corrupti
+                    earum ipsa. Architecto, corporis velit ea dolore illum iure ratione nostrum illo asperiores. Tempora
+                    porro, itaque cumque eaque modi nostrum provident ipsa. Incidunt nemo, et expedita, vero autem in,
+                    pariatur possimus voluptates consectetur distinctio voluptatibus explicabo praesentium quibusdam
+                    quisquam qui. Pariatur ullam optio, dolores atque laudantium reprehenderit molestias nihil eum
+                    obcaecati illum ad, vel placeat earum debitis? Numquam quod temporibus mollitia ipsa odit. Ea culpa
+                    tempora dolorum quasi saepe, dignissimos nisi non molestiae nihil!</p>
+            </article>
+            <aside>
+                <ul>
+                    <li><a href=""></a></li>
+                    <li><a href=""></a></li>
+                    <li><a href=""></a></li>
+                </ul>
+            </aside>
+        </Main>
+        <footer>yahoobaba@copyright 2025.</footer>
+    </div>
+</body>
+
+</html>
